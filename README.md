@@ -1,5 +1,5 @@
 #  Testes de Hipóteses Média e Variância de duas populações
-Estudo realizado com base nos aprendizados do módulo de inferência estatística da Escola [Preditiva.ai]([url](https://www.preditiva.ai/)). apliquei o conceito utilizado no Excel e repliquei no Python.
+Estudo realizado com base nos aprendizados do módulo de inferência estatística da [Escola Preditiva](https://www.preditiva.ai/). apliquei o conceito utilizado no Excel e repliquei no Python.
 
 ## Problema
 Uma empresa responsável por realizar testes de qualidade nas águas das represas que abastecem a região metropolitana da cidade de São Paulo **coletou 100 amostras de água da represa Billings e 110 amostras de água da represa Guarapiranga**.
