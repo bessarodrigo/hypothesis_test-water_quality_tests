@@ -1,4 +1,4 @@
-#  Testes de Hipóteses - Teste de Qualidade do pH de Duas Represas de Água
+#  Testes de Hipóteses - Qualidade do pH de Duas Represas de Água
 ## Média e Variância de duas populações
 Estudo realizado com base nos aprendizados do módulo de inferência estatística da [Escola Preditiva](https://www.preditiva.ai/). apliquei o conceito utilizado no Excel e repliquei no Python.
 
